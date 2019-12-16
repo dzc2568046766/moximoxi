@@ -1,0 +1,10 @@
+2019-12-16 16:56:27,687 INFO DEFAULT_GROUP@@gateway-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.106:9910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-12-16 16:56:27,692 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-service, ips: 192.168.1.106:9910_true,
+
+2019-12-16 16:56:27,703 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-service, ips: 192.168.1.106:9910_true,
+
+2019-12-16 16:57:47,252 INFO DEFAULT_GROUP@@gateway-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.106:9910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-12-16 16:57:47,252 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-service, ips: 
+

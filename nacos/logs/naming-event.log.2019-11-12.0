@@ -1,0 +1,16 @@
+2019-11-12 15:35:37,627 INFO DEFAULT_GROUP@@dzc-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.157:9910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-12 15:35:37,677 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dzc-service, ips: 192.168.1.157:9910_true,
+
+2019-11-12 15:35:37,702 INFO DEFAULT_GROUP@@dzc-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.157:9910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-12 15:35:37,702 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dzc-service, ips: 192.168.1.157:9910_true,
+
+2019-11-12 17:07:39,367 INFO DEFAULT_GROUP@@dzc-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.157:9910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-12 17:07:39,373 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dzc-service, ips: 
+
+2019-11-12 17:07:39,374 INFO DEFAULT_GROUP@@dzc-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.157:9910:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-12 17:07:39,374 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dzc-service, ips: 
+

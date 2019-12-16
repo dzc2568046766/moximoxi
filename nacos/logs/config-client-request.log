@@ -1,0 +1,8 @@
+2019-12-16 16:34:05,292|1071|true|0:0:0:0:0:0:0:1|publish|gateway-service|DEFAULT_GROUP||288d5c9d6dc2f3d3a93a70e37b3d2453|null
+2019-12-16 16:56:19,176|17|null|127.0.0.1|get|application-dev.yml|DEFAULT_GROUP|||unknown
+2019-12-16 16:56:19,188|1|null|127.0.0.1|get|gateway-service.yml|DEFAULT_GROUP|||unknown
+2019-12-16 16:56:19,192|1|null|127.0.0.1|get|gateway-service-dev.yml|DEFAULT_GROUP|||unknown
+2019-12-16 16:56:28,693|0|nohangup|127.0.0.1|polling|2|74|0
+2019-12-16 16:56:58,520|29538|timeout|127.0.0.1|polling|2|74
+2019-12-16 16:57:28,029|29502|timeout|127.0.0.1|polling|2|74
+2019-12-16 16:57:57,533|29501|timeout|127.0.0.1|polling|2|74

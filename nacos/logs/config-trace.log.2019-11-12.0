@@ -1,0 +1,13 @@
+2019-11-12 15:07:27,383|192.168.1.157|gateway-service|DEFAULT_GROUP|null|null|1573542447096|192.168.1.157|persist|pub|-1|2dea1b14e1d472e4531cd849402b22ba
+2019-11-12 15:07:27,557|192.168.1.157|gateway-service|DEFAULT_GROUP|null|null|1573542447096|192.168.1.157|notify|ok|450|192.168.1.157:8849
+2019-11-12 15:07:27,598|192.168.1.157|gateway-service|DEFAULT_GROUP|null|null|1573542447096|192.168.1.157|dump|ok|502|342
+2019-11-12 15:12:06,136|192.168.1.157|application-dev.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2019-11-12 15:15:08,797|192.168.1.157|application-dev.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2019-11-12 15:17:53,060|192.168.1.157|application-dev.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2019-11-12 15:22:42,808|192.168.1.157|application-dev.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2019-11-12 15:35:23,453|192.168.1.157|application-dev.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2019-11-12 15:35:23,512|192.168.1.157|dzc-service.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2019-11-12 15:35:23,519|192.168.1.157|dzc-service-dev.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2019-11-12 16:49:00,689|192.168.1.157|gateway-service|DEFAULT_GROUP|null|null|1573548539552|192.168.1.157|persist|pub|-1|a2d8e864678af1fc98bc034466ba82cd
+2019-11-12 16:49:00,718|192.168.1.157|gateway-service|DEFAULT_GROUP|null|null|1573548539552|192.168.1.157|notify|ok|1161|192.168.1.157:8849
+2019-11-12 16:49:00,810|192.168.1.157|gateway-service|DEFAULT_GROUP|null|null|1573548539552|192.168.1.157|dump|ok|1258|422

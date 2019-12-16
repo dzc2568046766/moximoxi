@@ -1,0 +1,78 @@
+2019-12-16 16:30:00,045 INFO notifyConnectTimeout:200
+
+2019-12-16 16:30:00,059 INFO notifySocketTimeout:8000
+
+2019-12-16 16:30:00,059 INFO isHealthCheck:true
+
+2019-12-16 16:30:00,059 INFO maxHealthCheckFailCount:12
+
+2019-12-16 16:30:00,059 INFO maxContent:10485760
+
+2019-12-16 16:30:00,060 INFO spring.datasource.platform:mysql
+
+2019-12-16 16:30:15,878 INFO ServerListService address-server port:8848
+
+2019-12-16 16:30:15,878 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-12-16 16:30:15,878 WARN [serverlist] updated to [192.168.1.106]
+
+2019-12-16 16:30:15,973 WARN DumpService start
+
+2019-12-16 16:30:15,975 INFO start clear all config-info.
+
+2019-12-16 16:30:15,995 INFO clear all config-info success.
+
+2019-12-16 16:30:15,995 WARN clear all config-info-tenant failed.
+
+2019-12-16 16:31:16,951 ERROR unhealthIp:192.168.1.106, unhealthCount:13
+
+2019-12-16 16:31:21,950 ERROR unhealthIp:192.168.1.106, unhealthCount:14
+
+2019-12-16 16:31:26,951 ERROR unhealthIp:192.168.1.106, unhealthCount:15
+
+2019-12-16 16:31:31,953 ERROR unhealthIp:192.168.1.106, unhealthCount:16
+
+2019-12-16 16:31:36,953 ERROR unhealthIp:192.168.1.106, unhealthCount:17
+
+2019-12-16 16:31:41,955 ERROR unhealthIp:192.168.1.106, unhealthCount:18
+
+2019-12-16 16:31:58,107 INFO notifyConnectTimeout:200
+
+2019-12-16 16:31:58,107 INFO notifySocketTimeout:8000
+
+2019-12-16 16:31:58,107 INFO isHealthCheck:true
+
+2019-12-16 16:31:58,107 INFO maxHealthCheckFailCount:12
+
+2019-12-16 16:31:58,107 INFO maxContent:10485760
+
+2019-12-16 16:31:58,107 INFO spring.datasource.platform:mysql
+
+2019-12-16 16:32:05,839 INFO ServerListService address-server port:8848
+
+2019-12-16 16:32:05,839 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-12-16 16:32:05,839 WARN [serverlist] updated to [192.168.1.106]
+
+2019-12-16 16:32:05,931 WARN DumpService start
+
+2019-12-16 16:32:05,933 INFO start clear all config-info.
+
+2019-12-16 16:32:05,938 WARN clear all config-info failed.
+
+2019-12-16 16:32:05,938 WARN clear all config-info-tenant failed.
+
+2019-12-16 16:32:06,447 INFO [all-dump] 1 / 1
+
+2019-12-16 16:32:06,447 INFO start clear all config-info-beta.
+
+2019-12-16 16:32:06,447 WARN clear all config-info-beta failed.
+
+2019-12-16 16:32:06,447 WARN clear all config-info-beta-tenant failed.
+
+2019-12-16 16:32:06,664 INFO start clear all config-info-tag.
+
+2019-12-16 16:32:06,665 WARN clear all config-info-tag failed.
+
+2019-12-16 16:32:06,665 WARN clear all config-info-tag-tenant failed.
+
